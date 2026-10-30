@@ -1,0 +1,9 @@
+{
+  "name": "polbeo/kirby-indieconnector-remote-status",
+  "description": "Read-only remote IndieConnector status overview for Kirby Panel",
+  "type": "kirby-plugin",
+  "require": {
+    "php": ">=8.2",
+    "getkirby/cms": "^5.0"
+  }
+}
